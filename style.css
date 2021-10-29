@@ -109,7 +109,7 @@ Title Sign Background
     height: 250px;
     background: radial-gradient(ellipse 350px 130px, #ff4845, rgba(0,0,0,0));
     position: absolute;
-    margin: 90px 275px;
+    margin: 90px 370px;
     border-radius: 75px;
     z-index: -10;
 }
